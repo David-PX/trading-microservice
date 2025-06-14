@@ -1,0 +1,15 @@
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.Interfaces/bin/Debug/net8.0/Pacagroup.Trade.Application.Interfaces.deps.json
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.Interfaces/bin/Debug/net8.0/Pacagroup.Trade.Application.Interfaces.dll
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.Interfaces/bin/Debug/net8.0/Pacagroup.Trade.Application.Interfaces.pdb
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.Interfaces/obj/Debug/net8.0/Pacagroup.Trade.Application.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.Interfaces/obj/Debug/net8.0/Pacagroup.Trade.Application.Interfaces.AssemblyInfoInputs.cache
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.Interfaces/obj/Debug/net8.0/Pacagroup.Trade.Application.Interfaces.AssemblyInfo.cs
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.Interfaces/obj/Debug/net8.0/Pacagroup.Trade.Application.Interfaces.csproj.CoreCompileInputs.cache
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.Interfaces/obj/Debug/net8.0/Pacagroup.Trade.Application.Interfaces.dll
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.Interfaces/obj/Debug/net8.0/refint/Pacagroup.Trade.Application.Interfaces.dll
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.Interfaces/obj/Debug/net8.0/Pacagroup.Trade.Application.Interfaces.pdb
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.Interfaces/obj/Debug/net8.0/ref/Pacagroup.Trade.Application.Interfaces.dll
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.Interfaces/obj/Debug/net8.0/Pacagroup.Trade.Application.Interfaces.csproj.AssemblyReference.cache
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.Interfaces/bin/Debug/net8.0/Pacagroup.Trade.Domain.dll
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.Interfaces/bin/Debug/net8.0/Pacagroup.Trade.Domain.pdb
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.Interfaces/obj/Debug/net8.0/Pacagrou.2F6E0953.Up2Date

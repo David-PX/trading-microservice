@@ -1,0 +1,11 @@
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Domain/bin/Debug/net8.0/Pacagroup.Trade.Domain.deps.json
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Domain/bin/Debug/net8.0/Pacagroup.Trade.Domain.dll
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Domain/bin/Debug/net8.0/Pacagroup.Trade.Domain.pdb
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Domain/obj/Debug/net8.0/Pacagroup.Trade.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Domain/obj/Debug/net8.0/Pacagroup.Trade.Domain.AssemblyInfoInputs.cache
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Domain/obj/Debug/net8.0/Pacagroup.Trade.Domain.AssemblyInfo.cs
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Domain/obj/Debug/net8.0/Pacagroup.Trade.Domain.csproj.CoreCompileInputs.cache
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Domain/obj/Debug/net8.0/Pacagroup.Trade.Domain.dll
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Domain/obj/Debug/net8.0/refint/Pacagroup.Trade.Domain.dll
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Domain/obj/Debug/net8.0/Pacagroup.Trade.Domain.pdb
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Domain/obj/Debug/net8.0/ref/Pacagroup.Trade.Domain.dll

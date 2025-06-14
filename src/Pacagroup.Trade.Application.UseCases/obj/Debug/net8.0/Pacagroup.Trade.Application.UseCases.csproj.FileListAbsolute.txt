@@ -1,0 +1,11 @@
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.UseCases/bin/Debug/net8.0/Pacagroup.Trade.Application.UseCases.deps.json
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.UseCases/bin/Debug/net8.0/Pacagroup.Trade.Application.UseCases.dll
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.UseCases/bin/Debug/net8.0/Pacagroup.Trade.Application.UseCases.pdb
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.UseCases/obj/Debug/net8.0/Pacagroup.Trade.Application.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.UseCases/obj/Debug/net8.0/Pacagroup.Trade.Application.UseCases.AssemblyInfoInputs.cache
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.UseCases/obj/Debug/net8.0/Pacagroup.Trade.Application.UseCases.AssemblyInfo.cs
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.UseCases/obj/Debug/net8.0/Pacagroup.Trade.Application.UseCases.csproj.CoreCompileInputs.cache
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.UseCases/obj/Debug/net8.0/Pacagroup.Trade.Application.UseCases.dll
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.UseCases/obj/Debug/net8.0/refint/Pacagroup.Trade.Application.UseCases.dll
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.UseCases/obj/Debug/net8.0/Pacagroup.Trade.Application.UseCases.pdb
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.UseCases/obj/Debug/net8.0/ref/Pacagroup.Trade.Application.UseCases.dll

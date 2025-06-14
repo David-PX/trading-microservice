@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/90b/RV2Nss=",
+  "success": true,
+  "projectFilePath": "/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Domain/Pacagroup.Trade.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/davidsolanopx/.nuget/packages/microsoft.netcore.app.ref/8.0.15/microsoft.netcore.app.ref.8.0.15.nupkg.sha512",
+    "/Users/davidsolanopx/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

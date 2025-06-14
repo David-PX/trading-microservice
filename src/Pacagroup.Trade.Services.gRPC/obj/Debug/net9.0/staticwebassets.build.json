@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ZrdOL2ZVbAxEUANlK/W0HSuSGPYLCUXpBJi1QXWyYAI=",
+  "Source": "Pacagroup.Trade.Services.gRPC",
+  "BasePath": "_content/Pacagroup.Trade.Services.gRPC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

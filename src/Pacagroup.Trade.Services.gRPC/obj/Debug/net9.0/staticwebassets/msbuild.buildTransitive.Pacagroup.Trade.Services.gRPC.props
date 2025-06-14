@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Pacagroup.Trade.Services.gRPC.props" />
+</Project>
