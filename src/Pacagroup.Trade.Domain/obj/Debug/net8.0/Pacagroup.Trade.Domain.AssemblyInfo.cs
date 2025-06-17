@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pacagroup.Trade.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ca849117f6fcfcb9b336fa9f5116a405ce47bdb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78d20244f64e757e83e7e75eed2950e71dfa84e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pacagroup.Trade.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pacagroup.Trade.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

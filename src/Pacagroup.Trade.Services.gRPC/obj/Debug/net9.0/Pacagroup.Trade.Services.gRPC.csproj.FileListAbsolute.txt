@@ -174,3 +174,8 @@
 /Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Services.gRPC/bin/Debug/net9.0/Pacagroup.Trade.Application.Interfaces.dll
 /Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Services.gRPC/bin/Debug/net9.0/Pacagroup.Trade.Application.Interfaces.pdb
 /Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Services.gRPC/obj/Debug/net9.0/Pacagroup.Trade.Services.gRPC.sourcelink.json
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Services.gRPC/bin/Debug/net9.0/AutoMapper.dll
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Services.gRPC/bin/Debug/net9.0/MediatR.dll
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Services.gRPC/bin/Debug/net9.0/MediatR.Contracts.dll
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Services.gRPC/bin/Debug/net9.0/Pacagroup.Trade.Application.UseCases.dll
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Services.gRPC/bin/Debug/net9.0/Pacagroup.Trade.Application.UseCases.pdb

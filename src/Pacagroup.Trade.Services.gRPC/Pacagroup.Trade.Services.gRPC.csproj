@@ -20,6 +20,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Pacagroup.Trade.Persistence\Pacagroup.Trade.Persistence.csproj" />
+    <ProjectReference Include="..\Pacagroup.Trade.Application.UseCases\Pacagroup.Trade.Application.UseCases.csproj" />
   </ItemGroup>
 
   <ItemGroup>
