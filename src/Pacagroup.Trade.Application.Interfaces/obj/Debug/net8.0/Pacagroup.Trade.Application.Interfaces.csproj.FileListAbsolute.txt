@@ -13,3 +13,4 @@
 /Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.Interfaces/bin/Debug/net8.0/Pacagroup.Trade.Domain.dll
 /Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.Interfaces/bin/Debug/net8.0/Pacagroup.Trade.Domain.pdb
 /Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.Interfaces/obj/Debug/net8.0/Pacagrou.2F6E0953.Up2Date
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.Interfaces/obj/Debug/net8.0/Pacagroup.Trade.Application.Interfaces.sourcelink.json

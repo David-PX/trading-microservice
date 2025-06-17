@@ -17,3 +17,4 @@
 /Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Persistence/obj/Debug/net8.0/Pacagroup.Trade.Persistence.genruntimeconfig.cache
 /Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Persistence/bin/Debug/net8.0/Pacagroup.Trade.Application.Interfaces.dll
 /Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Persistence/bin/Debug/net8.0/Pacagroup.Trade.Application.Interfaces.pdb
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Persistence/obj/Debug/net8.0/Pacagroup.Trade.Persistence.sourcelink.json

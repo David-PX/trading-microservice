@@ -9,3 +9,10 @@
 /Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.UseCases/obj/Debug/net8.0/refint/Pacagroup.Trade.Application.UseCases.dll
 /Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.UseCases/obj/Debug/net8.0/Pacagroup.Trade.Application.UseCases.pdb
 /Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.UseCases/obj/Debug/net8.0/ref/Pacagroup.Trade.Application.UseCases.dll
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.UseCases/bin/Debug/net8.0/Pacagroup.Trade.Application.Interfaces.dll
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.UseCases/bin/Debug/net8.0/Pacagroup.Trade.Domain.dll
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.UseCases/bin/Debug/net8.0/Pacagroup.Trade.Application.Interfaces.pdb
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.UseCases/bin/Debug/net8.0/Pacagroup.Trade.Domain.pdb
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.UseCases/obj/Debug/net8.0/Pacagroup.Trade.Application.UseCases.csproj.AssemblyReference.cache
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.UseCases/obj/Debug/net8.0/Pacagroup.Trade.Application.UseCases.sourcelink.json
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Application.UseCases/obj/Debug/net8.0/Pacagrou.2C429F5D.Up2Date

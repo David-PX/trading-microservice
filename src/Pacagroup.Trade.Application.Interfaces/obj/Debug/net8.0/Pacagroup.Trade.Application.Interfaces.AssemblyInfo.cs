@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pacagroup.Trade.Application.Interfaces")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ca849117f6fcfcb9b336fa9f5116a405ce47bdb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pacagroup.Trade.Application.Interfaces")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pacagroup.Trade.Application.Interfaces")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,3 +9,4 @@
 /Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Domain/obj/Debug/net8.0/refint/Pacagroup.Trade.Domain.dll
 /Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Domain/obj/Debug/net8.0/Pacagroup.Trade.Domain.pdb
 /Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Domain/obj/Debug/net8.0/ref/Pacagroup.Trade.Domain.dll
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Domain/obj/Debug/net8.0/Pacagroup.Trade.Domain.sourcelink.json
