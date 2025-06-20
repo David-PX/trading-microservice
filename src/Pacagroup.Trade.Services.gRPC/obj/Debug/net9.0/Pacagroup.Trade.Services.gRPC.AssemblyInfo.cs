@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pacagroup.Trade.Services.gRPC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+855f4a9dd1ebd0c716fa61f1f885232e280ed95b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dac870d364d9ea3241e2f56ba06fa40b4eee88c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pacagroup.Trade.Services.gRPC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pacagroup.Trade.Services.gRPC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
