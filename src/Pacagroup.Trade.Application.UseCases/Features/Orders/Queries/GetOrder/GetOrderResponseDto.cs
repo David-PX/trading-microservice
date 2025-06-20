@@ -1,4 +1,4 @@
-namespace Pacagroup.Trade.Application.UseCases.Features.Orders.Queries
+namespace Pacagroup.Trade.Application.UseCases.Features.Orders.Queries.GetOrder
 {
     public class GetOrderResponseDto
     {

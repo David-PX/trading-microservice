@@ -3,7 +3,7 @@ using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Pacagroup.Trade.Application.Persistence;
 
-namespace Pacagroup.Trade.Application.UseCases.Features.Orders.Queries
+namespace Pacagroup.Trade.Application.UseCases.Features.Orders.Queries.GetOrder
 {
     public class GetOrderHandler : IRequestHandler<GetOrderQuery, GetOrderResponseDto>
     {

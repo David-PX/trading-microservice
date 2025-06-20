@@ -1,8 +1,8 @@
 using AutoMapper;
 using Pacagroup.Trade.Application.UseCases.Features.Orders.Command.CreateOrder;
 using Pacagroup.Trade.Application.UseCases.Features.Orders.Command.UpdateOrder;
-using Pacagroup.Trade.Application.UseCases.Features.Orders.Queries;
 using Pacagroup.Trade.Application.UseCases.Features.Orders.Queries.GetAllOrder;
+using Pacagroup.Trade.Application.UseCases.Features.Orders.Queries.GetOrder;
 using Pacagroup.Trade.Domain.Entities;
 
 namespace Pacagroup.Trade.Application.UseCases.Commons.Mappings
