@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pacagroup.Trade.Infraestructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+855f4a9dd1ebd0c716fa61f1f885232e280ed95b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+350b1e576862416405751775a82e5b2bb60f4b02")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pacagroup.Trade.Infraestructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pacagroup.Trade.Infraestructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,5 +1,7 @@
+using System.ComponentModel.DataAnnotations;
 using Grpc.Core;
 using Grpc.Core.Interceptors;
+using Pacagroup.Trade.Application.UseCases.Commons.Exceptions;
 using Pacagroup.Trade.Services.gRPC.Protos;
 
 namespace Pacagroup.Trade.Services.gRPC.Commons.GlobalException
@@ -11,6 +13,16 @@ namespace Pacagroup.Trade.Services.gRPC.Commons.GlobalException
             try
             {
                 return await base.UnaryServerHandler(request, context, continuation);
+            }
+            catch (ValidationExceptionCustom ex)
+            {
+                var serverResponse = new ServerResponse()
+                {
+                    IsSuccess = false,
+                    Message = "Errores de validación",
+                    Errors = string.Join(" | ", ex.Errors)
+                };
+                return MapResponse<TRequest, TResponse>(serverResponse);
             }
             catch (Exception ex)
             {

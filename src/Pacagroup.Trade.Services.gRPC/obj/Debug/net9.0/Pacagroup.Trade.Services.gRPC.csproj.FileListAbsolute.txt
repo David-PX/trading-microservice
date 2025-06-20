@@ -181,3 +181,5 @@
 /Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Services.gRPC/bin/Debug/net9.0/Pacagroup.Trade.Application.UseCases.pdb
 /Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Services.gRPC/bin/Debug/net9.0/Grpc.AspNetCore.Server.Reflection.dll
 /Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Services.gRPC/bin/Debug/net9.0/Grpc.Reflection.dll
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Services.gRPC/bin/Debug/net9.0/FluentValidation.dll
+/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Services.gRPC/bin/Debug/net9.0/FluentValidation.DependencyInjectionExtensions.dll

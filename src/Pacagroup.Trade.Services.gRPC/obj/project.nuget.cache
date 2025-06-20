@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "4242Ub4qeBI=",
+  "dgSpecHash": "TxlN4deVfVw=",
   "success": true,
   "projectFilePath": "/Users/davidsolanopx/Pacagroup/Pacagroup.Trade/src/Pacagroup.Trade.Services.gRPC/Pacagroup.Trade.Services.gRPC.csproj",
   "expectedPackageFiles": [
     "/Users/davidsolanopx/.nuget/packages/automapper/14.0.0/automapper.14.0.0.nupkg.sha512",
     "/Users/davidsolanopx/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/davidsolanopx/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",
+    "/Users/davidsolanopx/.nuget/packages/fluentvalidation/12.0.0/fluentvalidation.12.0.0.nupkg.sha512",
+    "/Users/davidsolanopx/.nuget/packages/fluentvalidation.dependencyinjectionextensions/12.0.0/fluentvalidation.dependencyinjectionextensions.12.0.0.nupkg.sha512",
     "/Users/davidsolanopx/.nuget/packages/google.protobuf/3.30.2/google.protobuf.3.30.2.nupkg.sha512",
     "/Users/davidsolanopx/.nuget/packages/grpc.aspnetcore/2.64.0/grpc.aspnetcore.2.64.0.nupkg.sha512",
     "/Users/davidsolanopx/.nuget/packages/grpc.aspnetcore.server/2.71.0/grpc.aspnetcore.server.2.71.0.nupkg.sha512",
